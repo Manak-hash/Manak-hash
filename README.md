@@ -57,4 +57,4 @@
 
 ## Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=torvalds)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Manak-hash)](https://github.com/anuraghazra/github-readme-stats)
