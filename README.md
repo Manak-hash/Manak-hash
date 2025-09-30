@@ -34,8 +34,19 @@
 <br />
 
 ### Frameworks / Libraries
-<img src="https://cdn.phaser.io/images/logo/phaser-planet-web.png" alt="Phaser" align="left" height="30px" style="padding: 5px;">
-<img src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" align="left" height="30px" style="padding: 5px;">
+<img src="https://react.dev/favicon.ico" alt="React" align="left" height="30px" style="padding: 5px;">
+<img src="https://react.dev/images/og-home.png" alt="React DOM" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/_static/react-router-icon.png" alt="React Router" align="left" height="30px" style="padding: 5px;">
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="TailwindCSS" align="left" height="30px" style="padding: 5px;">
+<img src="https://vitejs.dev/logo.svg" alt="Vite" align="left" height="30px" style="padding: 5px;">
+<img src="https://avatars.githubusercontent.com/u/1162262?s=200&v=4" alt="TypeScript" align="left" height="30px" style="padding: 5px;">
+<img src="https://eslint.org/icon-512.png" alt="ESLint" align="left" height="30px" style="padding: 5px;">
+<img src="https://postcss.org/logo.svg" alt="PostCSS" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/postcss/autoprefixer/main/logo/autoprefixer.png" alt="Autoprefixer" align="left" height="30px" style="padding: 5px;">
+<img src="https://appwrite.io/assets/logos/appwrite.svg" alt="Appwrite" align="left" height="30px" style="padding: 5px;">
+<img src="https://appwrite.io/assets/logos/appwrite.svg" alt="Node Appwrite" align="left" height="30px" style="padding: 5px;">
+<img src="https://raw.githubusercontent.com/node-fetch/node-fetch/main/media/logo.svg" alt="Node Fetch" align="left" height="30px" style="padding: 5px;">
+<img src="https://www.npmjs.com/static/images/touch-icons/favicon-512.png" alt="React Scroll Parallax" align="left" height="30px" style="padding: 5px;">
 <br />
 
 ### Tools
