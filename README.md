@@ -35,8 +35,6 @@
 
 ### Frameworks / Libraries
 <img src="https://react.dev/favicon.ico" alt="React" align="left" height="30px" style="padding: 5px;">
-<img src="https://react.dev/images/og-home.png" alt="React DOM" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/_static/react-router-icon.png" alt="React Router" align="left" height="30px" style="padding: 5px;">
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="TailwindCSS" align="left" height="30px" style="padding: 5px;">
 <img src="https://vitejs.dev/logo.svg" alt="Vite" align="left" height="30px" style="padding: 5px;">
 <img src="https://avatars.githubusercontent.com/u/1162262?s=200&v=4" alt="TypeScript" align="left" height="30px" style="padding: 5px;">
