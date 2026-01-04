@@ -1,68 +1,106 @@
-<!-- Links -->
-[website]:https://manak-hash.github.io/Manak/
-[twitter]: https://x.com/Manak_btw
-[instagram]: https://www.instagram.com/manak_btw/
 
-<!-- End links -->
+###
 
-### Hi there 👋, I'm Manak
+<h1 align="center">Manak - Github Profile</h1>
 
-## I'm learning Computer Science
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Game Dev
-- 👯 I’m looking to collaborate on Space X Mars Project
-- 🤔 I’m looking for help with BackEnd Dev
-- 💬 Ask me about 420
-- ⚡ Fun fact: No fact at all
+###
 
-## Contact
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/White_Globe_Icon.png/1200px-White_Globe_Icon.png" alt="Website" align="left" height="22px" style="padding: 5px;">][website]
-[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="Twitter" align="left" height="22px" style="padding: 5px;">][twitter]
-[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" alt="Instagram" align="left" height="22px" style="padding: 5px;">][instagram]
-<br />
+## ⚡ About Me
+> **Full-Stack Dev // C.S Student**
 
-## Languages and Tools
+UIC Computer Science student & self-driven full-stack developer, bridging academic theory with independent research into modern tech stacks and emerging technologies.
 
-### Languages
+---
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" align="left" height="30px" style="padding: 5px;" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" align="left" height="30px" style="padding: 5px;">
-<br />
+## 🛠 Tech Stack & Expertise
 
-### Frameworks / Libraries
-<img src="https://react.dev/favicon.ico" alt="React" align="left" height="30px" style="padding: 5px;">
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="TailwindCSS" align="left" height="30px" style="padding: 5px;">
-<img src="https://vitejs.dev/logo.svg" alt="Vite" align="left" height="30px" style="padding: 5px;">
-<img src="https://eslint.org/icon-512.png" alt="ESLint" align="left" height="30px" style="padding: 5px;">
-<img src="https://postcss.org/logo.svg" alt="PostCSS" align="left" height="30px" style="padding: 5px;">
-<img src="https://appwrite.io/assets/logos/appwrite.svg" alt="Appwrite" align="left" height="30px" style="padding: 5px;">
-<img src="https://appwrite.io/assets/logos/appwrite.svg" alt="Node Appwrite" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/node-fetch/node-fetch/main/media/logo.svg" alt="Node Fetch" align="left" height="30px" style="padding: 5px;">
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>🧠 Languages & Core</kbd>
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>🎨 Frontend & UI</kbd>
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+      <br>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+      <br>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/ThreeJS-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+    </kbd>
+    <br>
+    <br>
+       <kbd>
+      <kbd>⚙️ Back-end & Cloud</kbd>
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite"/>
+         <br>
+  <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Apache-D70015?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>🗄️ Databases</kbd>
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <br>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>🔧 DevOps & Tools</kbd>
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <br>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    </kbd>
+  </p>
+</div>
 
-<br />
+---
 
-### Tools
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Manak-hash&theme=tokyonight&column=8&row=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manak-hash&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
-<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="Visual Studio" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Code" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="GitHub" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="Sublime" align="left" height="30px" style="padding: 5px;">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" alt="Claude" align="left" height="30px" style="padding: 5px;">
-<img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" align="left" height="30px" style="padding: 5px;">
-<br />
-
-### Platforms
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" align="left" height="30px" style="padding: 5px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" align="left" height="30px" style="padding: 5px;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" align="left" height="30px" style="padding: 5px;">
-<br />
-
-## Stats
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Manak-hash)](https://github.com/anuraghazra/github-readme-stats)
+---
