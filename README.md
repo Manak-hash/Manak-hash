@@ -99,7 +99,6 @@ UIC Computer Science student & self-driven full-stack developer, bridging academ
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Manak-hash&theme=tokyonight&column=8&row=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manak-hash&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
