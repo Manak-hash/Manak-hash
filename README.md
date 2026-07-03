@@ -13,8 +13,9 @@
 <h3 align="center">Full-Stack Developer • CS Student • Automation Architect</h3>
 
 <p align="center">
-  <a href="mailto:manakproo@gmail.com"><img src="https://img.shields.io/badge/Email-manakproo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Manak-hash&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <a href="https://omnirise.dev"><img src="https://img.shields.io/badge/My Website-omnirise.dev-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:manak@omnirise.dev"><img src="https://img.shields.io/badge/Email-manak%40omnirise.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Manak-hash&style=for-the-badge&logo=profil&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
@@ -34,36 +35,15 @@ Currently mixing academic learning with real projects that solve actual problems
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧰 [OmniToys](https://omnitoys.vercel.app/)
-**Unified Developer Toolkit**
+### 🌐 Check out my projects at [omnirise.dev](https://omnirise.dev)
 
-Status: 🟢
+<a href="https://omnirise.dev">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-omnirise.dev-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-50+ developer tools in one place. Formatters, converters, generators—everything you need without switching tabs.
-
-**[→ Launch App](https://omnitoys.vercel.app/)**
-
-</td>
-<td width="50%">
-
-### ⚖️ [MIA - Moroccan International Attorney](https://morinatt.com/)
-**Legal Tech Platform**
-
-Status: 🟡
-
-Legal tech platform revolutionizing legal processes, streamlining case management and legal workflows for modern practices.
-
-**[→ View Project](https://morinatt.com/)**
-
-</td>
-</tr>
-</table>
-
-> 📌 **Note:** Most of my work is private. These are the public ones.
+</div>
 
 ---
 
