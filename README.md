@@ -28,7 +28,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ph/envelope-simple.svg?color=%2307b6d5&amp;width=26&amp;height=26">
     <img src="https://api.iconify.design/ph/envelope-simple.svg?color=%230794ad&width=26&height=26" alt="email"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/OmniRise00" title="@OmniRise00"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ph/x-logo.svg?color=%2307b6d5&amp;width=26&amp;height=26">
-    <img src="https://api.iconify.design/ph/x-logo.svg?color=%230794ad&width=26&height=26" alt="X"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.com/users/332326479155298316" title="Manak on Discord"><picture>
+    <img src="https://api.iconify.design/ph/x-logo.svg?color=%230794ad&width=26&height=26" alt="X"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/omnirise00" title="@omnirise00 on Instagram"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ph/instagram-logo.svg?color=%2307b6d5&amp;width=26&amp;height=26">
+    <img src="https://api.iconify.design/ph/instagram-logo.svg?color=%230794ad&width=26&height=26" alt="Instagram"></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.com/users/332326479155298316" title="Manak on Discord"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ph/discord-logo.svg?color=%2307b6d5&amp;width=26&amp;height=26">
     <img src="https://api.iconify.design/ph/discord-logo.svg?color=%230794ad&width=26&height=26" alt="Discord"></picture></a>
 </p>
